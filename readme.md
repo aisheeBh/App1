@@ -13,10 +13,10 @@ The Project is built using HTML-CSS-JavaScript and TMDb API.
 💻  Tech-Stacks Used -
 ---------------------
 
-- [HTML]
-- [CSS]
-- [JavaScript]
-- [TMDb]
+- [HTML]()
+- [CSS]()
+- [JavaScript]()
+- [TMDb]()
 
 🙋**Contributors -**
 -----------------
