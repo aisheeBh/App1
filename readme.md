@@ -1,7 +1,7 @@
 # Watch-It
 
 
-**Live Demo**: <http://Watch-It.aisheebh.repl.co/>
+**Live Demo**: <https://watch-it-by-aisheebh.netlify.app/>
 
 
 | Description |
